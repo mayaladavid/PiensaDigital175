@@ -1,0 +1,6 @@
+CAPACITACIÓN DESARROLLO FULL STACK Y TECNOLOGÍAS HÍBRIDAS
+A lo largo de este programa vas a adquirir los conocimientos necesarios para un trabajo en Desarrollo Web Full Stack como iniciante; adicional a ello, vas a poder desarrollar aplicaciones y sitios web complejos, creando y configurando aquellas operaciones que ocurren en un servidor con bases de datos (el Back-end), al igual que la experiencia que ven y ocurre del lado de sus usuarios (el Front-end). Los conocimientos se adquieren a través de la realización de los cursos conceptuales y talleres prácticos que los acompañan, para obtener las habilidades necesarias para realizarlos. 
+
+Las tecnologías utilizadas en este programa son: HTML5, CSS, JavaScript, Git, Protocolo HTTP, APIs REST, Ruby, Ruby on Rails, PostgreSQL, Ionic 3, Angular 5. 
+
+Usando el Aprendizaje Basado en Proyectos (ABP o PBL, Project-based learning) nos permite aproximarnos a casos reales, basándonos en la necesidad de cambiar el paradigma de los procesos formativos, teniendo claro el porqué, para qué y las necesidades en la vida de cada una de las competencias adquiridas, consolidando un aprendizaje con sentido.
